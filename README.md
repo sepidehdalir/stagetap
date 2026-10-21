@@ -11,3 +11,5 @@ Free:1show/10cues and portable backup. Lifetime Pro adds10shows,100cues/show and
 This source-free public case study accompanies a separately backed-up private commercial app repository. The demo ZIP contains original synthesized audio only. Website, support and privacy pages use no developer trackers or forms. Original illustrative theatre environment generated with built-in image_gen; product UI is captured from the actual native app.
 
 Contact: https://www.arvinify.com · hello@arvinify.com
+
+October20 update: publisher-confirmed physical cue/ZIP and Apple Sandbox Pro workflow; signed archive/export PASS; fifteen campaign screenshots uploaded; privacy label published with explicit approval. Apple upload validation/submission remain pending.
