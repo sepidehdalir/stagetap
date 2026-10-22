@@ -1,6 +1,6 @@
 # StageTap: Theatre Sound Cues
 
-Native iPhone/iPad rehearsal sound cues by Sepideh Javanbakht Dalir / Arvinify. **Submitted October 21, 2026 at 12:47 PDT. App 1.0 (1) and Lifetime Pro are Waiting for Review; V1 frozen. Not released.** App Store identity6825117733 is accepted. TestFlight skipped by publisher instruction.
+Native iPhone/iPad rehearsal sound cues by Sepideh Javanbakht Dalir / Arvinify. **Current review status — October21,2026: App1.0(1) Rejected under Guideline4.3(a); Lifetime Pro Ready for Review. An app-specific clarification is already posted (Messages2). No new binary resubmission, approval or release.** Original submission October21 at12:47PDT is historical. App Store identity6825117733 is accepted. TestFlight skipped by publisher instruction.
 
 Prepare an ordered list of owned local audio, see the current/next cue and deliberately play one sound at a time. Stop holds the same cue; natural completion or Fade & next advances without autoplay. Rehearsal mode repeats a selected cue. A complete ZIP includes audio and restores as a fresh show.
 
